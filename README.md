@@ -1,5 +1,7 @@
 # ruby-avatar-server
 
+![project status: discontinued](https://img.shields.io/badge/project_status-discontinued-orange)
+
 Simple backend that gets an up-to-date user avatar straight from Discord and serves it via HTTP.
 You can see this server in action at <https://avatar.hoovad.tech>.
 
